@@ -16,4 +16,7 @@ In this Project, Dasti-Crafts tackles this Problems and their solutions:
 
 	In the second category the “collections page” includes all the products with their images and prices so that they can see all the available products on this page.
 
-	In the last part there is a category of “customize products”. In this section, the app is offering the customers to send the pictures with any suggestions or note of the products they want us to make and deliver at their door step. This is unique selling point of Dasti-Crafts
+	In the last part there is a category of “customize products”. In this section, the app is offering the customers to send the pictures with any suggestions or note of the products they want us to make and deliver at their door step. This is unique selling point of Dasti-Crafts.
+
+
+	DastiCrafts website Link --> www.dasticrafts.wordpress.com 
