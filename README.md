@@ -1,9 +1,9 @@
 # DastiCrafts
 Group Members
-Faisal Noor - BSCS,13021
-Ahamd Yousaf - BSCS,13063
-Saqib Javeed - BSCS,13064
-Muhammad Umer Ahmed - BSCS,13075
+(Faisal Noor - BSCS,13021)-
+(Ahamd Yousaf - BSCS,13063)-
+(Saqib Javeed - BSCS,13064)-
+(Muhammad Umer Ahmed - BSCS,13075)
 
 Introduction:
 If you want to understand the people of any country the best way is to know about their culture. And “Handicrafts are unique expressions of a particular culture or community through local craftsmanship and materials”. But unfortunately handicrafts industry in Pakistan has seen a huge decline during last two decades. There are many reasons for this decline but major reasons are the advancement of technology and trade with other countries in particular with China. According to Arthur Lewis a Nobel laureate in economics, “Trade allegedly does not foster growth because when it begins, a flood of imports of factory origin destroys the handicraft manufacturing of the less developed country: the models for this are the effects of British exports of textiles and of iron in India and Chile in the first half of the nineteenth century.” Trade itself is not bad but balance of exports and imports is very important.
